@@ -75,7 +75,9 @@ Charge pump is one of the important parts o PLL which converts the phase or freq
 It is an electronic oscillator whose oscillation frequency is controlled by a voltage input. VCO can be used for frequency modulation (FM) or phase modulation. For ex: VCOs are used in synthesizers to generate a waveform whose pitch can be adjusted by a voltage determined by a musical keyboard or other input. The layout of VCO is shown in Figure 6.1, the various values of Pre-layout simulation is shown in Figure 6.2, 6.3, & 6.4 and Post-layout simulation is shown in Figure 6.5.
  
   **VCO Layout**  
-   
+ 
+   ![vco](https://user-images.githubusercontent.com/81102519/137959791-62b30139-0a28-4590-a648-ada300f78c2e.jpg)  
+
  Figure 6.1: Layout of VCO  
  
   **Pre-Layout Simulation**  
