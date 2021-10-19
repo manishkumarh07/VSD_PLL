@@ -24,7 +24,7 @@ A phased-locked loop or phase lock loop (PLL) is a control system that generates
 <h2>2. Specifications<h2/>
  
  
- **3. EDA Tools:**
+ <h2>3. EDA Tools</h2>
 
 1. esim : Developed by IIT Bombay. It is used to create spice netlists.
 
@@ -32,15 +32,15 @@ A phased-locked loop or phase lock loop (PLL) is a control system that generates
 
 3. Magic : Layout editor for designing layouts and generating spice netlists from it.       
 
-**4. Phase Detector**  
+<h2>4. Phase Detector</h2> 
 A phase detector is a mixer-like circuit that puts out a signal that is proportional to the phase difference between two input signals of the same frequency.The phase detector produces a series of output pulses whose width is proportional to the phase difference. Passing the pulses through a LPF smoothes them into a proportional DC voltage.
 Clock Multiplier: It multiplies frequency of clock signal. It is used in processors for operation.  
   
 
-**5. Charge Pump**  
+ <h2>5. Charge Pump</h2> 
 Charge pump is one of the important parts o PLL which converts the phase or frequency difference information into a voltage, used to tune the VCO.  
   
-**VCO-Voltage Controlled Oscillator**  
+ <h2>6. VCO-Voltage Controlled Oscillator</h2>
 It is an electronic oscillator whose oscillation frequency is controlled by a voltage input. VCO can be used for frequency modulation (FM) or phase modulation. For ex: VCOs are used in synthesizers to generate a waveform whose pitch can be adjusted by a voltage determined by a musical keyboard or other input.  
   ![vco](https://user-images.githubusercontent.com/81102519/137951456-00a9f028-8462-4343-88aa-a5eb30fd334e.jpg)
   
