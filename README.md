@@ -27,11 +27,11 @@ A phased-locked loop or phase lock loop (PLL) is a control system that generates
  
  **3. EDA Tools:**
 
-"1" esim : Developed by IIT Bombay. It is used to create spice netlists.
+1. esim : Developed by IIT Bombay. It is used to create spice netlists.
 
-"2" ngspice : Open source tool for circuit simulator
+2. ngspice : Open source tool for circuit simulator
 
-"3" Magic : Layout editor for designing layouts and generating spice netlists from it.       
+3. Magic : Layout editor for designing layouts and generating spice netlists from it.       
 
 **4. Phase Detector**  
 A phase detector is a mixer-like circuit that puts out a signal that is proportional to the phase difference between two input signals of the same frequency.The phase detector produces a series of output pulses whose width is proportional to the phase difference. Passing the pulses through a LPF smoothes them into a proportional DC voltage.
