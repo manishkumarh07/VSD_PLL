@@ -47,4 +47,4 @@ ngspice : Open source tool for circuit simulator
 Magic : Layout editor for designing layouts and generating spice netlists from it.  
   
   Pre-Layout Final Circuit Simulation  
-  
+  ![FPLL101](https://user-images.githubusercontent.com/81102519/137950359-145864ed-3274-4263-b51b-7b422a83679b.jpg)
