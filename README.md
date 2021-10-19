@@ -80,10 +80,12 @@ Charge pump is one of the important parts o PLL which converts the phase or freq
  
  **Layout of MUX**
  
+ ![mux](https://user-images.githubusercontent.com/81102519/137961090-576414c0-78dc-479e-85ed-685bee4a5b11.jpg)
  Figure 6.2: MUX-Layout
  
  **Post-Layout Simulation**
  
+ ![mux1 1](https://user-images.githubusercontent.com/81102519/137961096-d6f5c802-6bc3-4c92-b80e-b21863dd8884.jpg)
  Figure 6.3: Simulation of MUX
  
  <h2>7. VCO-Voltage Controlled Oscillator</h2>
