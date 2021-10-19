@@ -8,8 +8,8 @@
  3. EDA Open Source Tools  
  4. Phase Detector: Pre-layout and Post Simulation  
  5. Charge Pump: Pre-layout and Post Simulation  
- 6. VCO: Pre-layout and Post Simulation   
- 7. MUX Circuit Diagram and Pre-layout Simulation  
+ 6. MUX Circuit Diagram and Pre-layout Simulation  
+ 7. VCO: Pre-layout and Post Simulation    
  8. PLL Simulation  
  9. Acknowledgements  
  
@@ -71,30 +71,34 @@ Charge pump is one of the important parts o PLL which converts the phase or freq
    
  Figure 5.3: Charge Pump with Capacitor
   
- <h2>6. VCO-Voltage Controlled Oscillator</h2>
-It is an electronic oscillator whose oscillation frequency is controlled by a voltage input. VCO can be used for frequency modulation (FM) or phase modulation. For ex: VCOs are used in synthesizers to generate a waveform whose pitch can be adjusted by a voltage determined by a musical keyboard or other input. The layout of VCO is shown in Figure 6.1, the various values of Pre-layout simulation is shown in Figure 6.2, 6.3, & 6.4 and Post-layout simulation is shown in Figure 6.5.
+ <h2>6. MUX</h2>
+ 
+ 
+ <h2>7. VCO-Voltage Controlled Oscillator</h2>
+It is an electronic oscillator whose oscillation frequency is controlled by a voltage input. VCO can be used for frequency modulation (FM) or phase modulation. For ex: VCOs are used in synthesizers to generate a waveform whose pitch can be adjusted by a voltage determined by a musical keyboard or other input. The layout of VCO is shown in Figure 7.1, the various values of Pre-layout simulation is shown in Figure 7.2, 7.3, & 7.4 and Post-layout simulation is shown in Figure 7.5.
  
   **VCO Layout**  
  
    ![vco](https://user-images.githubusercontent.com/81102519/137959791-62b30139-0a28-4590-a648-ada300f78c2e.jpg)  
 
- Figure 6.1: Layout of VCO  
+ Figure 7.1: Layout of VCO  
  
   **Pre-Layout Simulation**  
  
  
  ![vco_0 4](https://user-images.githubusercontent.com/81102519/137959895-65e167e6-0f97-4b56-a821-5ab14712e187.jpg)
- Figure 6.2: Simulation of VCO for 0.4V  
+ Figure 7.2: Simulation of VCO for 0.4V  
    
  ![vco_0 5](https://user-images.githubusercontent.com/81102519/137959903-eb3c27f0-e9cd-4945-9a24-61c9181044eb.jpg)
- Figure 6.3: Simulation of VCO for 0.5V  
+ Figure 7.3: Simulation of VCO for 0.5V  
   
  ![vco_0 6](https://user-images.githubusercontent.com/81102519/137959905-7ea48040-b8db-4e68-b9c2-8a41776f735d.jpg)
- Figure 6.4: Simulation of VCO for 0.6V  
+ Figure 7.4: Simulation of VCO for 0.6V  
  
  **Post-Layout Simulation**  
  
- Figure 6.5: Simulation of VCO
+ ![vco1 1](https://user-images.githubusercontent.com/81102519/137960039-b8d694bd-4dd2-45a7-a899-e6b0ece02e82.jpg)
+ Figure 7.5: Simulation of VCO
 
 
 
