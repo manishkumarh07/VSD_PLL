@@ -30,9 +30,9 @@ Clock Multiplier: It multiplies frequency of clock signal. It is used in process
 A low-pass filter is a filter that passes signals with a frequency lower than a selected cutoff frequency and attenuates signals with frequencies higher than the cutoff frequency. The exact frequency response of the filter depends on the filter design. So basically a LP  filter is the complement of a high-pass filter.
 
 **Charge Pump**  
-Charge pump is one of the important parts of PLL which converts the phase or frequency difference information into a voltage, used to tune the VCO.
+Charge pump is one of the important parts o PLL which converts the phase or frequency difference information into a voltage, used to tune the VCO.
 
-**VCO-Voltage Controlled Oscillator
+**VCO-Voltage Controlled Oscillator**  
 It is an electronic oscillator whose oscillation frequency is controlled by a voltage input. VCO can be used for frequency modulation (FM) or phase modulation. For ex: VCOs are used in synthesizers to generate a waveform whose pitch can be adjusted by a voltage determined by a musical keyboard or other input.  
   
   **Pre-Layout Simulation**  
