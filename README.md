@@ -1,5 +1,5 @@
 # VSD_PLL
-Documentation of PLL workshop on OSU 180nm by VSD 
+**Documentation of PLL workshop on OSU 180nm by VSD** 
 
 **Table of Contents**  
   PLL Introduction  
@@ -17,7 +17,7 @@ Documentation of PLL workshop on OSU 180nm by VSD
 **PLL-Phase Locked Loop**  
 A phased-locked loop or phase lock loop (PLL) is a control system that generates an output signal whose phase is related to the phase of an input signal. There are several different types; the simplest is an electronic circuit consisting of a variable frequency oscillator and a phase detector in a feedback loop. The oscillator generates a periodic signal, and the phase detector compares the phase of that signal with the phase of input periodic signal, adjusting the oscillator to keep the phase matched.  
   
-  Pre-Layout Simulation  
+  **Pre-Layout Simulation**  
   ![pfd_cp BeforeLPF](https://user-images.githubusercontent.com/81102519/137949179-7a0e309f-795a-4e17-83ba-0e50aa7e9ae9.jpg)
       
 
@@ -33,7 +33,10 @@ A low-pass filter is a filter that passes signals with a frequency lower than a 
 Charge pump is one of the important parts of PLL which converts the phase or frequency difference information into a voltage, used to tune the VCO.
 
 **VCO-Voltage Controlled Oscillator
-It is an electronic oscillator whose oscillation frequency is controlled by a voltage input. VCO can be used for frequency modulation (FM) or phase modulation. For ex: VCOs are used in synthesizers to generate a waveform whose pitch can be adjusted by a voltage determined by a musical keyboard or other input.
+It is an electronic oscillator whose oscillation frequency is controlled by a voltage input. VCO can be used for frequency modulation (FM) or phase modulation. For ex: VCOs are used in synthesizers to generate a waveform whose pitch can be adjusted by a voltage determined by a musical keyboard or other input.  
+  
+  **Pre-Layout Simulation**  
+  
 
 **EDA Tools:**
 
@@ -41,7 +44,7 @@ esim : Developed by IIT Bombay. It is used to create spice netlists.
 
 ngspice : Open source tool for circuit simulator
 
-Magic : Layout editor for designing layouts and generating spice netlists from it.
-
-![ALT](C:\Users\Manish\Pictures\VSD/ckt.jpg?raw=true)
-![ckt](https://user-images.githubusercontent.com/81102519/137939494-f6f207b7-bfcf-4f8e-aa49-dcefef270d07.jpg)
+Magic : Layout editor for designing layouts and generating spice netlists from it.  
+  
+  Pre-Layout Final Circuit Simulation  
+  
