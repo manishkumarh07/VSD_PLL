@@ -142,7 +142,9 @@ The PLL layout and it's simulation is shown in Figure 8.1 & 8.2.
  
  And Last but not least, I would like to thank my Parents & Teachers who directly & indirectly helped me & their contribution is of great value for me.
  
- <h2>10. Contact Information</h2>
-1.  Manish Kumar H, B.Tech(Electronic and Communication Engineering), CMR University, manishkumar.h.2018@gmail.com
-2. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalghosh@gmail.com
-3. Philipp Gühring, Software Architect, LibreSilicon Association - pg@futureware.at
+ <h2>10. Contact Information</h2>  
+ 
+1.  Manish Kumar H, B.Tech(Electronic and Communication Engineering), CMR University, manishkumar.h.2018@gmail.com  
+2. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalghosh@gmail.com  
+3. Philipp Gühring, Software Architect, LibreSilicon Association - pg@futureware.at  
+ 
