@@ -10,9 +10,9 @@
  5. Charge Pump: Pre-layout and Post Simulation  
  6. MUX Circuit Diagram and Pre-layout Simulation  
  7. VCO: Pre-layout and Post Simulation    
- 8. PLL Simulation  
+ 8. PLL Post-layout Simulation  
  9. Acknowledgements  
- 
+ 10. Contact Infomation
   
 <h2>1. Introduction on PLL-Phase Locked Loop</h2>  
 A phased-locked loop or phase lock loop (PLL) is a control system that generates an output signal whose phase is related to the phase of an input signal. There are several different types; the simplest is an electronic circuit consisting of a variable frequency oscillator and a phase detector in a feedback loop. The oscillator generates a periodic signal, and the phase detector compares the phase of that signal with the phase of input periodic signal, adjusting the oscillator to keep the phase matched as shown in Figure 1. 
@@ -76,6 +76,7 @@ Charge pump is one of the important parts o PLL which converts the phase or freq
  
  **MUX Block Diagram**
  
+ ![image](https://user-images.githubusercontent.com/81102519/137961252-78be7c7a-ec4a-49fd-aeec-563e6f99b82f.png)
  Figure 6.1: Block Diagram of MUX
  
  **Layout of MUX**
@@ -115,11 +116,14 @@ It is an electronic oscillator whose oscillation frequency is controlled by a vo
  Figure 7.5: Simulation of VCO
 
 
+ <h2>8. PLL Post-layout Simulation</h2>  
+The PLL layout and it's simulation is shown in Figure 8.1 & 8.2.
 
+ **PLL Layout**
+ 
+ Figure 8.1: Layout of PLL
 
-
-
-  
-  Pre-Layout Final Circuit Simulation  
+  **Post-Layout Final Circuit Simulation**  
   ![FPLL](https://user-images.githubusercontent.com/81102519/137950493-3a231407-0577-475b-8f32-afdea804ae50.jpg)
+ Figure 8.2: Simulation of PLL
   ![FPLL101](https://user-images.githubusercontent.com/81102519/137950359-145864ed-3274-4263-b51b-7b422a83679b.jpg)
