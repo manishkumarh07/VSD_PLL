@@ -32,9 +32,9 @@ A phased-locked loop or phase lock loop (PLL) is a control system that generates
  
  <h2>3. EDA Tools</h2>
 
-1. esim : Developed by IIT Bombay. It is used to create spice netlists.
+1. esim : Esim is a open source EDA tool for circuit design, simulation, analysis, and PCB Design.
 
-2. ngspice : Open source tool for circuit simulator
+2. ngspice : Ngspice is a open source spice simulator for electric and electronic circuit.
 
 3. Magic : Layout editor for designing layouts and generating spice netlists from it.       
 
