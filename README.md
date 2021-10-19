@@ -18,6 +18,7 @@
 A phased-locked loop or phase lock loop (PLL) is a control system that generates an output signal whose phase is related to the phase of an input signal. There are several different types; the simplest is an electronic circuit consisting of a variable frequency oscillator and a phase detector in a feedback loop. The oscillator generates a periodic signal, and the phase detector compares the phase of that signal with the phase of input periodic signal, adjusting the oscillator to keep the phase matched.  
   
   **Pre-Layout Simulation**  
+  ![image](https://user-images.githubusercontent.com/81102519/137951758-7efa6f0f-5957-4787-b31b-6ec003f7d27e.png)
   ![pfd_cp BeforeLPF](https://user-images.githubusercontent.com/81102519/137949179-7a0e309f-795a-4e17-83ba-0e50aa7e9ae9.jpg)
       
 
