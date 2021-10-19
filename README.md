@@ -82,10 +82,14 @@ It is an electronic oscillator whose oscillation frequency is controlled by a vo
  
   **Pre-Layout Simulation**  
  
+ 
+ ![vco_0 4](https://user-images.githubusercontent.com/81102519/137959895-65e167e6-0f97-4b56-a821-5ab14712e187.jpg)
  Figure 6.2: Simulation of VCO for 0.4V  
    
+ ![vco_0 5](https://user-images.githubusercontent.com/81102519/137959903-eb3c27f0-e9cd-4945-9a24-61c9181044eb.jpg)
  Figure 6.3: Simulation of VCO for 0.5V  
   
+ ![vco_0 6](https://user-images.githubusercontent.com/81102519/137959905-7ea48040-b8db-4e68-b9c2-8a41776f735d.jpg)
  Figure 6.4: Simulation of VCO for 0.6V  
  
  **Post-Layout Simulation**  
