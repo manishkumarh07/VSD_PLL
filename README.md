@@ -130,14 +130,14 @@ The PLL layout and it's simulation is shown in Figure 8.1 & 8.2.
  Figure 8.2: Simulation of PLL
 
  <h2>Acknowledgement</h2>
-1. Kunal Ghosh, Co-founder VSD Corp. Pvt. Ltd.
+1. Kunal Ghosh, Co-founder VSD Corp. Pvt. Ltd.  
 
-2. Philipp Gühring, Software Architect, LibreSilicon Association.
+2. Philipp Gühring, Software Architect, LibreSilicon Association.  
 
 3. eSim FOSSEE Team, IIT Bombay
 
-4. R. Timothy Edwards, Open Circuit Design
-
+4. R. Timothy Edwards, Open Circuit Design  
+ 
 5. Paras Gidd, M.Tech.( Microelectronics ), Manipal Institute of Technology,(MAHE)
  
  And Last but not least, I would like to thank my Parents & Teachers who directly & indirectly helped me & their contribution is of great value for me.
