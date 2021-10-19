@@ -1,14 +1,14 @@
 # VSD_PLL
 Documentation of PLL workshop on OSU 180nm by VSD 
 
-**Table of Contents**
+**Table of Contents**  
   PLL Introduction  
-  Specifications
-  EDA Open Source Tools
-  Phase Detector: Pre-layout and Post Simulation
-  Charge Pump: Pre-layout and Post Simulation
-  MUX Circuit Diagram and Pre-layout Simulation
-  VCO: Pre-layout and Post Simulation
+  Specifications  
+  EDA Open Source Tools  
+  Phase Detector: Pre-layout and Post Simulation  
+  Charge Pump: Pre-layout and Post Simulation  
+  MUX Circuit Diagram and Pre-layout Simulation  
+  VCO: Pre-layout and Post Simulation  
   PLL Simulation
   
 **Introduction**
