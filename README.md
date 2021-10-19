@@ -121,9 +121,28 @@ The PLL layout and it's simulation is shown in Figure 8.1 & 8.2.
 
  **PLL Layout**
  
+ ![FPLL](https://user-images.githubusercontent.com/81102519/137961671-e04e57bd-48cf-4abe-b5b2-bea53e8c3ce6.jpg)
  Figure 8.1: Layout of PLL
 
   **Post-Layout Final Circuit Simulation**  
-  ![FPLL](https://user-images.githubusercontent.com/81102519/137950493-3a231407-0577-475b-8f32-afdea804ae50.jpg)
+ 
+  ![FPLL101](https://user-images.githubusercontent.com/81102519/137961675-193133ca-7d11-4336-8fb0-06a2ee47defb.jpg)
  Figure 8.2: Simulation of PLL
-  ![FPLL101](https://user-images.githubusercontent.com/81102519/137950359-145864ed-3274-4263-b51b-7b422a83679b.jpg)
+
+ <h2>Acknowledgement</h2>
+1. Kunal Ghosh, Co-founder VSD Corp. Pvt. Ltd.
+
+2. Philipp Gühring, Software Architect, LibreSilicon Association.
+
+3. eSim FOSSEE Team, IIT Bombay
+
+4. R. Timothy Edwards, Open Circuit Design
+
+5. Paras Gidd, M.Tech.( Microelectronics ), Manipal Institute of Technology,(MAHE)
+ 
+ And Last but not least, I would like to thank my Parents & Teachers who directly & indirectly helped me & their contribution is of great value for me.
+ 
+ <h2>10. Contact Information</h2>
+1.  Manish Kumar H, B.Tech(Electronic and Communication Engineering), CMR University, manishkumar.h.2018@gmail.com
+2. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalghosh@gmail.com
+3. Philipp Gühring, Software Architect, LibreSilicon Association - pg@futureware.at
