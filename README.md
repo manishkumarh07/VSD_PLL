@@ -50,11 +50,17 @@ Clock Multiplier: It multiplies frequency of clock signal. It is used in process
   
 
  <h2>5. Charge Pump</h2> 
-Charge pump is one of the important parts o PLL which converts the phase or frequency difference information into a voltage, used to tune the VCO.  
+Charge pump is one of the important parts o PLL which converts the phase or frequency difference information into a voltage, used to tune the VCO. The layout of charged pump, Pre-layout and Post-Layout Simulation of charge pump is shown in the figure 5.1, 5.2, & 5.3.  
    
- **Pre-Layout Simulation**  
-   
+ **Charge Pump Layout**  
  
+ 
+ 
+ **Pre-Layout Simulation**   
+ 
+   ![pfd_cp BeforeLPF](https://user-images.githubusercontent.com/81102519/137958132-7527a723-c390-49e6-98a1-3573e1a0ce1c.jpg)  
+     
+ Figure 5.2: Charge Pump without Capacitor 
   
  <h2>6. VCO-Voltage Controlled Oscillator</h2>
 It is an electronic oscillator whose oscillation frequency is controlled by a voltage input. VCO can be used for frequency modulation (FM) or phase modulation. For ex: VCOs are used in synthesizers to generate a waveform whose pitch can be adjusted by a voltage determined by a musical keyboard or other input.  
