@@ -21,8 +21,12 @@ A phased-locked loop or phase lock loop (PLL) is a control system that generates
   ![image](https://user-images.githubusercontent.com/81102519/137951758-7efa6f0f-5957-4787-b31b-6ec003f7d27e.png)
   ![pfd_cp BeforeLPF](https://user-images.githubusercontent.com/81102519/137949179-7a0e309f-795a-4e17-83ba-0e50aa7e9ae9.jpg)  
     
-<h2>2. Specifications<h2/>
+<h2>2. Specifications<h2/>  
+   
+ 
  ![image](https://user-images.githubusercontent.com/81102519/137954609-2c0f9ccf-e24f-48dd-b040-476d323afcb6.png)  
+   
+ 
  ![image](https://user-images.githubusercontent.com/81102519/137954817-91149fab-b972-4aec-9712-3b060f7d12f0.png)
  
  <h2>3. EDA Tools</h2>
