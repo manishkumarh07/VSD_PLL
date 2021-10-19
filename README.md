@@ -15,4 +15,4 @@ ngspice : Open source tool for circuit simulator
 
 Magic : Layout editor for designing layouts and generating spice netlists from it.
 
-C:\Users\Manish\Pictures\VSD
+![Alt text](C:\Users\Manish\Pictures\VSD/ckt.jpg?raw=true)
