@@ -15,7 +15,7 @@
  
   
 <h2>1. Introduction on PLL-Phase Locked Loop</h2>  
-A phased-locked loop or phase lock loop (PLL) is a control system that generates an output signal whose phase is related to the phase of an input signal. There are several different types; the simplest is an electronic circuit consisting of a variable frequency oscillator and a phase detector in a feedback loop. The oscillator generates a periodic signal, and the phase detector compares the phase of that signal with the phase of input periodic signal, adjusting the oscillator to keep the phase matched.  
+A phased-locked loop or phase lock loop (PLL) is a control system that generates an output signal whose phase is related to the phase of an input signal. There are several different types; the simplest is an electronic circuit consisting of a variable frequency oscillator and a phase detector in a feedback loop. The oscillator generates a periodic signal, and the phase detector compares the phase of that signal with the phase of input periodic signal, adjusting the oscillator to keep the phase matched as shown in Fig 1. 
   
   ****  
   ![image](https://user-images.githubusercontent.com/81102519/137951758-7efa6f0f-5957-4787-b31b-6ec003f7d27e.png)  
@@ -42,7 +42,7 @@ A phased-locked loop or phase lock loop (PLL) is a control system that generates
 A phase detector is a mixer-like circuit that puts out a signal that is proportional to the phase difference between two input signals of the same frequency.The phase detector produces a series of output pulses whose width is proportional to the phase difference. Passing the pulses through a LPF smoothes them into a proportional DC voltage.
 Clock Multiplier: It multiplies frequency of clock signal. It is used in processors for operation.  
    
- ![pfd101](https://user-images.githubusercontent.com/81102519/137955158-774f025d-0d34-46c6-a565-78b02995bedc.jpg)
+ 
   
 
  <h2>5. Charge Pump</h2> 
