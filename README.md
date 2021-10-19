@@ -67,17 +67,28 @@ Charge pump is one of the important parts o PLL which converts the phase or freq
  
  **Post-Layout Simulation**  
    
- 
+ ![pfd_cir](https://user-images.githubusercontent.com/81102519/137958896-f38a1403-b12b-44a4-ba1f-21ea7f0bf9f4.jpg)   
+   
+ Figure 5.3: Charge Pump with Capacitor
   
  <h2>6. VCO-Voltage Controlled Oscillator</h2>
-It is an electronic oscillator whose oscillation frequency is controlled by a voltage input. VCO can be used for frequency modulation (FM) or phase modulation. For ex: VCOs are used in synthesizers to generate a waveform whose pitch can be adjusted by a voltage determined by a musical keyboard or other input.  
-  ![vco](https://user-images.githubusercontent.com/81102519/137951456-00a9f028-8462-4343-88aa-a5eb30fd334e.jpg)
-  
+It is an electronic oscillator whose oscillation frequency is controlled by a voltage input. VCO can be used for frequency modulation (FM) or phase modulation. For ex: VCOs are used in synthesizers to generate a waveform whose pitch can be adjusted by a voltage determined by a musical keyboard or other input. The layout of VCO is shown in Figure 6.1, the various values of Pre-layout simulation is shown in Figure 6.2, 6.3, & 6.4 and Post-layout simulation is shown in Figure 6.5.
+ 
+  **VCO Layout**  
+   
+ Figure 6.1: Layout of VCO  
+ 
   **Pre-Layout Simulation**  
+ 
+ Figure 6.2: Simulation of VCO for 0.4V  
+   
+ Figure 6.3: Simulation of VCO for 0.5V  
   
-
-**Low-Pass Filter**  
-A low-pass filter is a filter that passes signals with a frequency lower than a selected cutoff frequency and attenuates signals with frequencies higher than the cutoff frequency. The exact frequency response of the filter depends on the filter design. So basically a LP  filter is the complement of a high-pass filter.
+ Figure 6.4: Simulation of VCO for 0.6V  
+ 
+ **Post-Layout Simulation**  
+ 
+ Figure 6.5: Simulation of VCO
 
 
 
