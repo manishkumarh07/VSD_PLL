@@ -36,6 +36,8 @@ A phased-locked loop or phase lock loop (PLL) is a control system that generates
 <h2>4. Phase Detector</h2> 
 A phase detector is a mixer-like circuit that puts out a signal that is proportional to the phase difference between two input signals of the same frequency.The phase detector produces a series of output pulses whose width is proportional to the phase difference. Passing the pulses through a LPF smoothes them into a proportional DC voltage.
 Clock Multiplier: It multiplies frequency of clock signal. It is used in processors for operation.  
+   
+ ![pfd101](https://user-images.githubusercontent.com/81102519/137955158-774f025d-0d34-46c6-a565-78b02995bedc.jpg)
   
 
  <h2>5. Charge Pump</h2> 
