@@ -72,7 +72,19 @@ Charge pump is one of the important parts o PLL which converts the phase or freq
  Figure 5.3: Charge Pump with Capacitor
   
  <h2>6. MUX</h2>
+ A 2-to-1 multiplexer consists of two inputs I1 and I2, one select input S and one output. Depending on the select signal, the output is connected to either of the inputs is shown in figure 6.1. The layout of mux is shown in figure 6.2 and Post-layout simulation is shown in Figure 6.3.MUX
  
+ **MUX Block Diagram**
+ 
+ Figure 6.1: Block Diagram of MUX
+ 
+ **Layout of MUX**
+ 
+ Figure 6.2: MUX-Layout
+ 
+ **Post-Layout Simulation**
+ 
+ Figure 6.3: Simulation of MUX
  
  <h2>7. VCO-Voltage Controlled Oscillator</h2>
 It is an electronic oscillator whose oscillation frequency is controlled by a voltage input. VCO can be used for frequency modulation (FM) or phase modulation. For ex: VCOs are used in synthesizers to generate a waveform whose pitch can be adjusted by a voltage determined by a musical keyboard or other input. The layout of VCO is shown in Figure 7.1, the various values of Pre-layout simulation is shown in Figure 7.2, 7.3, & 7.4 and Post-layout simulation is shown in Figure 7.5.
