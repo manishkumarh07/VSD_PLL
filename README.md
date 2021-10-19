@@ -9,7 +9,7 @@ Documentation of PLL workshop on OSU 180nm by VSD
   Charge Pump: Pre-layout and Post Simulation  
   MUX Circuit Diagram and Pre-layout Simulation  
   VCO: Pre-layout and Post Simulation  
-  PLL Simulation
+  PLL Simulation  
   Acknowledgement
   
 **Introduction**
