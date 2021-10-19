@@ -19,7 +19,7 @@ A phased-locked loop or phase lock loop (PLL) is a control system that generates
   
   ****  
   ![image](https://user-images.githubusercontent.com/81102519/137951758-7efa6f0f-5957-4787-b31b-6ec003f7d27e.png)  
-   Fig 1
+   Fig 1: Block Diagram of PLL
   
     
 <h2>2. Specifications<h2/>  
